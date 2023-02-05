@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.headWrapper{
+    display: flex;
+}
+
+.headWrapper{
+    background: linear-gradient(45deg, rgb(236, 163, 163) 26%, rgb(120, 47, 7) 53%);
+    display: flex;
+}
+
+.logo{
+    justify-content: center;
+    height: 15rem;
+    width: 100rem;
+    
+}
+
+.logoOut{
+    border-radius: 20px;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+.personalInfo{
+    text-align: center;
+    color: black;
+    height: 10rem;
+    width: auto;
+}
+.headerDiv{
+    display: flex;
+    justify-content: right;
+    background: rgb(120, 47, 7);
+}
+div{
+    padding-left: 30px;
+    text-align: center;
+}
+
+.welcome{
+    display: flex;
+    justify-content: center;
+}
